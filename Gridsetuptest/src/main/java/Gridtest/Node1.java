@@ -1,6 +1,6 @@
 package Gridtest;
 
-//this is a selenium grid example
+//this is a selenium grid example ; this should be important
 import java.net.MalformedURLException;
 import java.net.URL;
 

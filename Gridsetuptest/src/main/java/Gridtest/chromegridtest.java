@@ -19,6 +19,8 @@ DesiredCapabilities cap = new DesiredCapabilities();
 cap.setBrowserName("chrome");
 cap.setPlatform(Platform.LINUX);
 
+//this is for docker
+
 //2. Chrome Options Definition
 ChromeOptions options = new ChromeOptions();
 options.merge(cap);
@@ -31,3 +33,5 @@ System.out.println(driver.getTitle());
 	}
 
 }
+
+//hello world
