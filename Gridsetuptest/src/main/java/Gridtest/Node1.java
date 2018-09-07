@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
-
+/* Author: dhyanitha */
 public class Node1 {
   @Test
   public void f() throws MalformedURLException {
